@@ -1,7 +1,7 @@
 """
-POD Resize Tool
+Resize Tool
 Yêu cầu: pip install Pillow
-Chạy: python POD_Resize.py
+Chạy: python resize.py
 """
 
 import os
